@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align: center;
+    align-items: center;
+}
+img{
+    justify-content: center;
+    width: 50%;
+}
+.img-thumbnail{
+    border: 3px solid black;
+}
